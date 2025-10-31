@@ -1,0 +1,32 @@
+[
+  {
+    "username": "kminchelle",
+    "password": "0lelplR",
+    "firstName": "Michelle",
+    "image": "/vercel.svg"
+  },
+  {
+    "username": "admin",
+    "password": "admin123",
+    "firstName": "Admin",
+    "image": "/vercel.svg"
+  },
+  {
+    "username": "ِahmed_massoud",
+    "password": "123456789",
+    "firstName": "ahmed",
+    "image": "/vercel.svg"
+  },
+  {
+    "username": "almassoud",
+    "password": "555555555",
+    "firstName": "ali",
+    "image": "/vercel.svg"
+  },
+  {
+    "username": "amira",
+    "password": "444444444",
+    "firstName": "amira",
+    "image": "/vercel.svg"
+  }
+]
